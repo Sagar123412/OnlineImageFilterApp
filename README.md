@@ -4,3 +4,5 @@ This is an online image filter application that allows us to upload any custom i
 Technologies used: 
 
 HTML, CSS, JavaScript, Caman.JS [Library for manipulating our images].  
+
+Live Demo: https://sagar123412.github.io/OnlineImageFilterApp/
